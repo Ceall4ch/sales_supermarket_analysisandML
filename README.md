@@ -63,14 +63,6 @@ The project compares the performance of Linear Regression and Random Forest mode
 - scikit-learn
 - scipy
 
-## Usage
-Clone the repository and run the Jupyter notebook to reproduce the analysis. The dataset is included in the repository.
-
-```python
-# Example of loading the dataset
-import pandas as pd
-df = pd.read_csv("supermarket_sales.csv")
-```
 
 ## Acknowledgements
 Thanks to the dataset provider on Kaggle and all who take time and energy to perform analyses with this dataset.
